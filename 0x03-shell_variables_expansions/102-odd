@@ -1,0 +1,2 @@
+#!/bin/bash
+nl -b a your_file.txt | grep '^[0-9]\+[13579]:'
